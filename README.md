@@ -46,17 +46,13 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn streamlit pillow
 ```
 
 ### Running the Project
-1. Clone the repository:
-```bash
-[git clone https://github.com/viswakimi/Multiclass-Fish-Image-Classification]
-```
 
-2. Train the models (Optional if pre-trained models are available):
+1. Train the models (Optional if pre-trained models are available):
 ```bash
 python train_models.py
 ```
 
-3. Run the Streamlit app:
+2. Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
